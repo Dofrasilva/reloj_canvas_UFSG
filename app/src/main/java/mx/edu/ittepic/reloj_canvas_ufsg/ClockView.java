@@ -11,9 +11,7 @@ import android.view.View;
 
 import java.util.Calendar;
 
-/**
- * Created by Jorge on 24/04/2018.
- */
+
 
 public class ClockView extends View {
 
